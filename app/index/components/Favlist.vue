@@ -1,5 +1,5 @@
 <template>
-    <div v-for="n in 10">aaa</div>
+    <div v-for="n in 5">{{msg}}</div>
 </template>
 
 <script>
